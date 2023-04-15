@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Henry Emerald](@henrii1).
+- 👋 Hi, I’m [Henry Uchechukwu Emerald](@henrii1).
 
 - 👀 I’m interested in Medical Engineering and space applications
 
