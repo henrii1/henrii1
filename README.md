@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Henry Uchechukwu Emerald](@henrii1).
 
-- 👀 I’m interested in Medical Engineering and space applications
+- 👀 I’m interested in Medical AI and applications
 
 - 🌱 I currently Interning at CHAI.
 
