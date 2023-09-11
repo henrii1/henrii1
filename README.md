@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Medical AI and applications
 
-- 🌱 I currently Interning at CHAI.
+- 🌱 I currently working at CHAI.
 
 
 - 📫 How to reach me reach me on linkedin: [Henry Emerald](https://www.linkedin.com/in/henry-emerald-5a78b4159?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsoktEz1KSiuhr1bGJhfWsw%3D%3D)
