@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Henry Uchechukwu Emerald](@henrii1).
 
-- 👀 I’m interested in Production Machine Learning and Knowledge Graphss
+- 👀 I’m interested in Production Machine Learning and Knowledge Graphs and Healthcare
 
 - 🌱 I currently working on databases @CHAI and develop ML & MLOps training materials at night. 
 
