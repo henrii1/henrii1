@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/henrii1">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Emerald+Henry;ML+and+MLOps+tutor+%7C+ML+Research+Biology+and+Energy;Databases+%7C+Data+Analyst+%7C+AI+in+Healthcare" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Emerald+Henry;AI+Engineer+%7C+MLOps+Engineer+%7C+LLM+Focus;ML+Research+Experience+%7C+Data+Science+Experience" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -57,7 +57,7 @@
 |Title | Technologies|
 |--|--|
 | [FastAPI-Microservice](https://github.com/henrii1/ML-FastAPI-Microservice)  | ![PyTorch](https://img.shields.io/badge/PyTorch-blue?style=flat-square&logo=pytorch) ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi) ![OpenAI](https://img.shields.io/badge/OpenAI-yellow?style=flat-square&logo=openai) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-orange?style=flat-square&logo=hugging%20face) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon%20aws)|
-| [Bart Text Summarization App](https://github.com/henrii1/NLP_Text_summarization_huggingface) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Streamlit](https://img.shields.io/badge/Streamlit-lightgreen?style=flat-square&logo=streamlit) ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi)|
+| [Bart Text Summarization App](https://github.com/henrii1/NLP_Text_summarization_huggingface) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Streamlit](https://img.shields.io/badge/Streamlit-lightgreen?style=flat-square&logo=streamlit) ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi) [![Langchain](https://example.com/langchain-badge.png)](https://langchain.com)|
 | [Sentiment Analysis App](https://github.com/henrii1/RoBERTa_App) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-orange?style=flat-square&logo=hugging%20face)|
 | [Food Classification App](https://github.com/henrii1/ViT_Classification_App)  |![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Gradio](https://img.shields.io/badge/Gradio-blueviolet?style=flat-square&logo=gradio) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-orange?style=flat-square&logo=hugging%20face)|
 | [Sentiment Analysis App](https://github.com/henrii1/RoBERTa_App) | ![Streamlit](https://img.shields.io/badge/Streamlit-lightgreen?style=flat-square&logo=streamlit) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![ONNX](https://img.shields.io/badge/ONNX-lightblue?style=flat-square&logo=onnx) |
