@@ -52,39 +52,12 @@
 ### 🖥️ Open-Source Projects
 <table>
 <tr>Machine Learning
-<tr><td>
-
-|Title | Technologies|
-|--|--|
-| [FastAPI-Microservice](https://github.com/henrii1/ML-FastAPI-Microservice)  | ![PyTorch](https://img.shields.io/badge/PyTorch-blue?style=flat-square&logo=pytorch) ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi) ![OpenAI](https://img.shields.io/badge/OpenAI-yellow?style=flat-square&logo=openai) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-orange?style=flat-square&logo=hugging%20face) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon%20aws)|
-| [Bart Text Summarization App](https://github.com/henrii1/NLP_Text_summarization_huggingface) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Streamlit](https://img.shields.io/badge/Streamlit-lightgreen?style=flat-square&logo=streamlit) ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi) ![Langchain](https://img.shields.io/badge/langchain-black?style=flat-square&logo=langchain) |
-| [Sentiment Analysis App](https://github.com/henrii1/RoBERTa_App) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-orange?style=flat-square&logo=hugging%20face)|
-| [Food Classification App](https://github.com/henrii1/ViT_Classification_App)  |![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Gradio](https://img.shields.io/badge/Gradio-blueviolet?style=flat-square&logo=gradio) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-orange?style=flat-square&logo=hugging%20face)|
-| [Sentiment Analysis App](https://github.com/henrii1/RoBERTa_App) | ![Streamlit](https://img.shields.io/badge/Streamlit-lightgreen?style=flat-square&logo=streamlit) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![ONNX](https://img.shields.io/badge/ONNX-lightblue?style=flat-square&logo=onnx) |
-| [SQL-FastAPI Integration App](https://github.com/henrii1/SQL_Database_App_FastAPI_Docker) |  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi) |
-| [Data Science, ML and MLOps Tutorial](https://github.com/henrii1/Tutorials__MLOps_ML_Data_Science)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi) ![R](https://img.shields.io/badge/R-blue?style=flat-square&logo=r) ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)|
-| [Data Structures/Algo](https://github.com/henrii1/DataStructures_implementation) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)|
-| [Wind Turbine Modelling](https://github.com/henrii1/wind-turbine-power-curve-modelling) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)|
-| [Wind Turbine Fault Detection](https://github.com/henrii1/WTPCM-using-multivariate-DM-and-K-S-test) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-blue.svg)](https://scikit-learn.org/) ![R](https://img.shields.io/badge/R-blue?style=flat-square&logo=r)| 
-
-</td><td>
-
-</td></tr> </table>
+<tr>
+Check my Repositories!
+</tr> </table>
 
 
 
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henrii1&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henrii1&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henrii1&theme=dracula)
-
-
-</details>
 <!---
 henrii1/henrii1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
