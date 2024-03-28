@@ -51,10 +51,8 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr>Machine Learning
-<tr>
-Check my Repositories!
-</tr> </table>
+Check my Repositories and Forks. some are Open Source contributions
+ </table>
 
 
 
